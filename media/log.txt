@@ -1,0 +1,129 @@
+
+
+
+From : +254717043938
+Message: Hello
+Timestamp: 3rd February 2012 06:53
+Message Id: 12345
+Sent to: +254722123456
+
+
+From : +254717043938
+Message: school uon 
+Timestamp: 3rd February 2012 06:59
+Message Id: 01234
+Sent to: +254722123456
+
+
+From : +254717043938
+Message: Hello
+Timestamp: 6th February 2012 18:15
+Message Id: 12345
+Sent to: +254722123456
+
+
+From : 8446332913
+Message: Hi Shantanu
+Timestamp: 4th October 2016 20:02
+Message Id: 6728
+Sent to: +254722123456
+
+
+From : 8446332913
+Message: Hello Shaan
+Timestamp: 4th October 2016 20:16
+Message Id: 789
+Sent to: +254722123456
+
+
+From : 8446332913
+Message: Hi Shantanu
+Timestamp: 4th October 2016 20:24
+Message Id: 8976
+Sent to: +254722123456
+
+
+From : 8446332913
+Message: Hi Shantanu
+Timestamp: 4th October 2016 20:28
+Message Id: 6728
+Sent to: +254722123456
+
+
+From : 8446332913
+Message: Hi Shantanu
+Timestamp: 4th October 2016 20:29
+Message Id: 8976
+Sent to: +254722123456
+
+
+From : 8446332913
+Message: Hi Shantanu
+Timestamp: 4th October 2016 20:43
+Message Id: 8976
+Sent to: +919421884839
+
+
+From : 9421884839
+Message: Hi Shantanu
+Timestamp: 4th October 2016 20:47
+Message Id: 8976
+Sent to: +91-844 633 2913
+
+
+From : 9421884839
+Message: Hi Shantanu
+Timestamp: 4th October 2016 20:51
+Message Id: 8976
+Sent to: 91-844633913
+
+
+From : 8446332913
+Message: Hi Shantanu
+Timestamp: 4th October 2016 20:56
+Message Id: 8976
+Sent to: 91-844633913
+
+
+From : 9421884839
+Message: Hi Shantanu
+Timestamp: 4th October 2016 20:58
+Message Id: 8976
+Sent to: 00 91 8446332913
+
+
+From : 9421884839
+Message: Hi Shantanu
+Timestamp: 4th October 2016 21:16
+Message Id: 8976
+Sent to: 00 91 8446332913
+
+
+From : +919421884839
+Message: Hi Shantanu
+Timestamp: 4th October 2016 21:17
+Message Id: 8976
+Sent to: 00 91 8446332913
+
+
+From : +919421884839
+Message: Hi Shantanu
+Timestamp: 4th October 2016 21:18
+Message Id: 8976
+Sent to: 00 91 8446332913
+
+
+From : +919421884839
+Message: Hi Shantanu
+Timestamp: 4th October 2016 21:19
+Message Id: 8976
+Sent to: +918446332913
+
+
+From : +919421884839
+Message: Hi Shantanu
+Timestamp: 4th October 2016 21:24
+Message Id: 8976
+Sent to: +918446332913
+
+
